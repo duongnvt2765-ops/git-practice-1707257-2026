@@ -5,3 +5,7 @@
 - Student ID: 1707257
 - Name: Thai Duong
 - Class: C2510L
+
+## Objectives
+Practice basic and advanced Git commands.
+Understand branching strategy
